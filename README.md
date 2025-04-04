@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning Git
 
 Important steps for git workflow:
@@ -8,3 +9,8 @@ Important steps for git workflow:
 4. State changes for commit
 5. Commit changes to version history
 6. Review previous with git log
+=======
+# my-second-repository
+# This has been edited through GitHub editor
+# This has been edited through GitHub editor twice
+>>>>>>> refs/remotes/origin/main

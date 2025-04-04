@@ -13,4 +13,5 @@ Important steps for git workflow:
 # my-second-repository
 # This has been edited through GitHub editor
 # This has been edited through GitHub editor twice
+# This has been edited through the CLI
 >>>>>>> refs/remotes/origin/main

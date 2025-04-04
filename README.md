@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Learning Git
 
 Important steps for git workflow:
@@ -8,10 +7,4 @@ Important steps for git workflow:
 3. Check status of those files with git status
 4. State changes for commit
 5. Commit changes to version history
-6. Review previous with git log
-=======
-# my-second-repository
-# This has been edited through GitHub editor
-# This has been edited through GitHub editor twice
-# This has been edited through the CLI
->>>>>>> refs/remotes/origin/main
+6. Review previous with git login

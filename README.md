@@ -8,3 +8,4 @@
 #4. State changes for commit
 #5. Commit changes to version history
 #6. Review previous with git login
+#7  Cloned and edited!
